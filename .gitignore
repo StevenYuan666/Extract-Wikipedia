@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+all_wikipedia_articles(not_used)/
+wikiextractor_solution(not_used)/
+enwiki-latest-pages-articles.xml.bz2
+index_enwiki-latest.db
+index_table.json
