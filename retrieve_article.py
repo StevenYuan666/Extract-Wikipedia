@@ -50,6 +50,11 @@ def retrieve_article(wikidata_id):
 
 # Example usage
 if __name__ == '__main__':
+    # # Retrieve a content
+    # content = retrieve_content('Q101038')
+    # print(content)
+
+    # Retrieve an article
     title, article = retrieve_article('Q101038')
     print(f"The title of the article is: {title}")
     print(article)
